@@ -14,3 +14,7 @@ vote on issues relevant to their community.
 
 The Project takes advantage of Twilio API for SMS verification so that 
 members of the community do not vote more than once. 
+
+Clone the project at https://github.com/schen2315/kiosk.git
+run `node ./bin/www` and go to localhost:3000/
+to try it 
