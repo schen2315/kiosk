@@ -1,5 +1,5 @@
 # kiosk +
-Hack Red Hook 2016 Hackathon project
+Hack Red Hook 2016 Hackathon project.
 Big Thanks to Lisander, Andrés, and Jeff. 
 You guys are what made Hack Red Hook Amazing.
 Plus we won 2nd place so WOOTWOOT!!
