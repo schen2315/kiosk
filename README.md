@@ -10,10 +10,10 @@ BEST SQUAD!
 # Description
 Our project consisted of a physical component and the software component.
 The software component is a website where members of the Red Hook Community can 
-vote on issues relevant to their community. 
+vote on issues relevant to their community as well as an information kiosk portion (which we hadn't gotten to). 
 
 The Project takes advantage of Twilio API for SMS verification so that 
-members of the community do not vote more than once. 
+members of the community can not vote more than once. 
 
 Clone the project at https://github.com/schen2315/kiosk.git
 run `node ./bin/www` and go to localhost:3000/
