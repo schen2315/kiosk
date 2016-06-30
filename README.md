@@ -5,7 +5,8 @@ You guys are what made Hack Red Hook Amazing.
 Plus we won 2nd place so WOOTWOOT!!
 BEST SQUAD!
 
-![alt text](public/img/HackRedHook20162ndplaceTrophy.jpg "Description goes here")
+![alt text](public/img/HackRedHook20162ndplaceTrophy.jpg "Hack Red Hook 2016 2nd Place Tropy")
+![alt text](public/img/RHH_kioskplus-page-009.jpg "Hack Red Hook 2016 2nd Place Tropy")
 
 # Description
 Our project consisted of a physical component and the software component.
