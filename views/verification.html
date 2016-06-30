@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Step 2 - Code</title>
+    
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body id="welcome">
+	<div id="progress-bar">
+		<ul>
+			<li>1</li>
+			<li class="active">2</li>
+			<li>3</li>
+			<li>4</li>
+			<li>5</li>
+		</ul>
+	</div>
+    
+    <div id="verify-message">
+    	To ensure that voices are heard! We require a confirmation code be <br>
+        sent to your phone. Polls may be taken once per week <br>
+    </div>
+    <div id="verify-subtext">
+        <form>
+    	Enter Phone Number to receive your confirmation code! <br>
+        <span>Status: <span id="verify-status">Waiting for user input</span></span>
+        <input type="text" name="phone" id="verify-number" maxlength ="10">
+    	<input type="button" value="Send" id="send-code-button">
+        </form>
+    </div>
+
+    <div id="quit-button">
+        Quit
+    </div>
+<!-- Importing JavaScript Files -->
+<script src="js/jquery-3.0.0.min.js"></script>
+<script src="js/functions.js"></script>
+</body>
+</html>
